@@ -2,7 +2,7 @@
 
 ## Usage
 
-### uBlackList
+### uBlacklist
 
 [Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) / [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/)
 
