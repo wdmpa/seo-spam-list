@@ -1,5 +1,13 @@
-*://kknews.cc/*
-*://www.coder.work/*
-*://www.qedev.com/*
-*://xbuba.com/*
+*://www.coder.work/article/*
+*://xbuba.com/questions/*
 *://stackoom.com/*
+*://stackoverrun.com/*
+*://thinbug.com/*
+*://www.thinbug.com/*
+*://www.voidcn.com/search/*
+*://www.codenong.com/*
+*://ask.helplib.com/*
+*://itranslater.com/*
+*://www.soinside.com/*
+*://androidcookie.com/*
+*://oomake.com/*
