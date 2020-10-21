@@ -14,3 +14,9 @@
 ```
 https://wdmpa.org/seo-spam-list/machine-translated-stackoverflow.txt
 ```
+
+### Content Farm
+
+```
+https://wdmpa.org/seo-spam-list/content-farm.txt
+```
