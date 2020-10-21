@@ -1,2 +1,16 @@
-# seo-spam-list
-SEO Spam List
+# SEO Spam List
+
+## Usage
+
+### uBlackList
+
+[Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) / [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/)
+
+`Options` > `Add Subscription`
+
+## Subscriptions
+### Machine-translated Stackoverflow
+
+```
+https://wdmpa.org/seo-spam-list/machine-translated-stackoverflow.txt
+```
