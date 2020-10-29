@@ -31,3 +31,4 @@
 *://twitter.com/qastack/*
 *://qa.1r1g.com/*
 *://codingdict.com/questions/*
+*://kb.kutu66.com/*
