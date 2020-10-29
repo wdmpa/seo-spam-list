@@ -4,7 +4,7 @@
 *://stackoverrun.com/*
 *://thinbug.com/*
 *://www.thinbug.com/*
-*://www.voidcn.com/search/*
+*://www.voidcn.com/*
 *://www.codenong.com/*
 *://ask.helplib.com/*
 *://itranslater.com/*
