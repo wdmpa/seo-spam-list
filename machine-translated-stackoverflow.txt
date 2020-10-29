@@ -30,3 +30,4 @@
 *://qastack.info.tr/*
 *://twitter.com/qastack/*
 *://qa.1r1g.com/*
+*://codingdict.com/questions/*
