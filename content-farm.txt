@@ -2,3 +2,4 @@
 *://www.geek-share.com/*
 *://www.javazhiyin.com/*
 *://www.ityouknow.com/*
+*://kknews.cc/*
